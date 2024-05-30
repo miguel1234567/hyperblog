@@ -1,5 +1,9 @@
 Esta es una prueba de miguelito
 
+<<<<<<< HEAD
 y va a hacer el mega powerbi de ciberseguridad
 
 y es importante para GCI
+=======
+y lo van a usar todos 
+>>>>>>> cabecera
